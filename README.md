@@ -4,7 +4,7 @@
 
 
 
-	python3 -m venv DIR		
+	python3 -m venv < DIR >		
 
 	source DIR/bin/activate 
 
